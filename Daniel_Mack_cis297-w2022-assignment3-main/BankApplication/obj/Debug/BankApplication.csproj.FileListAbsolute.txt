@@ -1,0 +1,10 @@
+C:\Users\MackD\Downloads\Daniel_Mack_cis297-w2022-assignment3-main\BankApplication\obj\Debug\BankApplication.csproj.AssemblyReference.cache
+C:\Users\MackD\Downloads\Daniel_Mack_cis297-w2022-assignment3-main\BankApplication\obj\Debug\BankApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\MackD\Downloads\Daniel_Mack_cis297-w2022-assignment3-main\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\MackD\Downloads\Daniel_Mack_cis297-w2022-assignment3-main\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\MackD\Downloads\Daniel_Mack_cis297-w2022-assignment3-main\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\MackD\Downloads\Daniel_Mack_cis297-w2022-assignment3-main\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\MackD\Downloads\Daniel_Mack_cis297-w2022-assignment3-main\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\MackD\Downloads\Daniel_Mack_cis297-w2022-assignment3-main\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\MackD\Downloads\Daniel_Mack_cis297-w2022-assignment3-main\BankApplication\obj\Debug\BankApplication.Bank_AccountForm.resources
+C:\Users\MackD\Downloads\Daniel_Mack_cis297-w2022-assignment3-main\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.cache
